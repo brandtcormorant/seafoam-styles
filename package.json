@@ -1,0 +1,21 @@
+{
+  "name": "@seafoam/styles",
+  "version": "0.0.0",
+  "description": "Styles for Seafoam apps",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandtcormorant/seafoam-styles.git"
+  },
+  "keywords": [
+    "css",
+    "design",
+    "styles"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandtcormorant/seafoam-styles/issues"
+  },
+  "homepage": "https://github.com/brandtcormorant/seafoam-styles#readme"
+}
